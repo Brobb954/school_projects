@@ -1,0 +1,10 @@
+19:55:21 **** Incremental Build of configuration Debug for project Assign2_Prog3 ****
+make -j7 all 
+arm-none-eabi-size   Assign2_Prog3.elf 
+   text	   data	    bss	    dec	    hex	filename
+    768	      8	   1568	   2344	    928	Assign2_Prog3.elf
+Finished building: default.size.stdout
+ 
+
+19:55:21 Build Finished. 0 errors, 0 warnings. (took 122ms)
+

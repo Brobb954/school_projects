@@ -1,0 +1,12 @@
+	.syntax unified
+	.text
+	.global main
+main:
+
+
+
+
+// Data section starts at 0x20000000
+	.data
+String:	.space	20		//Allocates one 32-bit word, initialized to 400
+		.end			//End of source file

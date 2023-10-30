@@ -1,0 +1,25 @@
+	.syntax unified
+	.text
+	.global main
+main:
+
+
+
+
+
+
+
+
+
+
+
+subneg:
+
+
+
+
+		.data
+LIST1:	.word	5, -8, 20, 15, -20, 83, 125, -107, 0, 35, 14, -19, -30, 0, 35, -8, -6, 22, 0, -1
+NEGS1:	.word	0
+LIST2:	.word	18, -200, -50, -25, 123, 5, -3, -2, 0, 0, -125, 177
+NEGS2:	.word	0

@@ -1,0 +1,17 @@
+LaunchTargetManager/org.eclipse.launchbar.core.launchTargetType.local,Local/arch=x86_64
+LaunchTargetManager/org.eclipse.launchbar.core.launchTargetType.local,Local/name=Local
+LaunchTargetManager/org.eclipse.launchbar.core.launchTargetType.local,Local/os=macosx
+configDescList=org.eclipse.cdt.dsf.gdb.gdbRemotedescriptorType\:Assign2_Prog1 Debug,org.eclipse.cdt.dsf.gdb.gdbRemotedescriptorType\:Assign2_Prog2 Debug,org.eclipse.cdt.dsf.gdb.gdbRemotedescriptorType\:Assign2_Prog3 Debug,org.eclipse.cdt.dsf.gdb.gdbRemotedescriptorType\:Assign4_Prog2 Debug,org.eclipse.cdt.dsf.gdb.gdbRemotedescriptorType\:Assign4_Prog3 Debug,org.eclipse.cdt.dsf.gdb.gdbRemotedescriptorType\:Assign4_Prog4 Debug,org.eclipse.cdt.dsf.gdb.gdbRemotedescriptorType\:Assign4_Prog1 Debug,org.eclipse.cdt.dsf.gdb.gdbRemotedescriptorType\:Assign3_Prog1 Debug,org.eclipse.cdt.dsf.gdb.gdbRemotedescriptorType\:Assign3_Prog2 Debug,org.eclipse.cdt.dsf.gdb.gdbRemotedescriptorType\:Assign3_Prog3 Debug,org.eclipse.cdt.dsf.gdb.gdbRemotedescriptorType\:Assign3_Prog4 Debug,org.eclipse.cdt.dsf.gdb.gdbRemotedescriptorType\:Assign3_Prog5 Debug
+eclipse.preferences.version=1
+org.eclipse.cdt.dsf.gdb.gdbRemotedescriptorType\:Assign2_Prog1\ Debug/activeLaunchMode=run
+org.eclipse.cdt.dsf.gdb.gdbRemotedescriptorType\:Assign2_Prog1\ Debug/activeLaunchTarget=null\:---
+org.eclipse.cdt.dsf.gdb.gdbRemotedescriptorType\:Assign2_Prog2\ Debug/activeLaunchMode=run
+org.eclipse.cdt.dsf.gdb.gdbRemotedescriptorType\:Assign2_Prog3\ Debug/activeLaunchMode=run
+org.eclipse.cdt.dsf.gdb.gdbRemotedescriptorType\:Assign3_Prog1\ Debug/activeLaunchMode=run
+org.eclipse.cdt.dsf.gdb.gdbRemotedescriptorType\:Assign3_Prog2\ Debug/activeLaunchMode=run
+org.eclipse.cdt.dsf.gdb.gdbRemotedescriptorType\:Assign3_Prog3\ Debug/activeLaunchMode=run
+org.eclipse.cdt.dsf.gdb.gdbRemotedescriptorType\:Assign3_Prog4\ Debug/activeLaunchMode=run
+org.eclipse.cdt.dsf.gdb.gdbRemotedescriptorType\:Assign3_Prog5\ Debug/activeLaunchMode=run
+org.eclipse.cdt.dsf.gdb.gdbRemotedescriptorType\:Assign4_Prog1\ Debug/activeLaunchMode=run
+org.eclipse.cdt.dsf.gdb.gdbRemotedescriptorType\:Assign4_Prog2\ Debug/activeLaunchMode=run
+org.eclipse.cdt.dsf.gdb.gdbRemotedescriptorType\:Assign4_Prog3\ Debug/activeLaunchMode=debug
